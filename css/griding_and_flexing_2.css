@@ -1,0 +1,12 @@
+.box{
+	background-color: #E6E2EB;
+	border: 1px solid #C9C1D5;
+	min-height: 55px;
+	padding: 14px 0px 0px 14px;
+	margin-bottom: 10px;
+}
+.box2{
+	background-color: #FFE5E5;
+	min-height: 220px;
+	margin-bottom: 10px;
+}
